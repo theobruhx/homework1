@@ -1,0 +1,64 @@
+body { 
+    background: rgb(204, 204, 204);
+}
+
+h1{
+color: rgb(43, 28, 57);
+font-size: 38px;
+}
+
+h2{
+color: rgb(43, 28, 57);
+font-size: 33px;
+}
+
+h3{
+    color: rgb(43, 28, 57);
+    font-size: 25px;
+    }
+
+a{
+text-decoration: none; 
+color: rgb(112, 98, 125);
+}
+
+a:hover {
+color: rgb(58, 41, 73)
+}
+
+nav{
+    background: #eee
+    border: 1px solid #bbb;
+    /* border - обводка */
+} 
+
+
+article{
+    width: 1100px; /* width - ширина контейнера */
+    /* background: lavender; */
+margin: 200px auto; /* margin - внешний отступ */
+}
+
+.pic1 {
+    width: 35%;
+    margin: 2%;
+    border-radius: 10px;
+}
+
+.pic2 {
+    width: 35%;
+    margin: 2%;
+    border-radius: 10px;
+}
+
+.pic3 {
+    width: 35%;
+    margin: 2%;
+    border-radius: 10px;
+}
+
+.pic4 {
+    width: 35%;
+    margin: 2%;
+    border-radius: 10px;
+}
